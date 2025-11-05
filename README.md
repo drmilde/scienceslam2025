@@ -1,1 +1,1 @@
-# scienceslam2025
+# Science Slam2025
